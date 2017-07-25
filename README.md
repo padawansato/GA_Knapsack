@@ -39,5 +39,6 @@ Generation1499: 888 197.0 [(147, 4), (147, 4), (150, 90.5), (150, 90.5), (147, 4
 
 
 ## 参考
+
 https://github.com/DEAP/deap
 http://testpy.hatenablog.com/entry/2017/01/28/185219
