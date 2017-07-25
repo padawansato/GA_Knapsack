@@ -27,7 +27,14 @@ python2
 
 
 
+## データについて
+buzzfeed
+https://www.buzzfeed.com/awesomer/the-definitive-ranking-of-the-original-151-pokemon?utm_term=.mw5M9Og2P#.mcaQE5bGP
 
+### データの入れ方
+リストでコード内に直接記述している．
+
+これは良くない．
 
 ## 結果の例
 
